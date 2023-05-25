@@ -5,8 +5,8 @@
       "name": "Владимир",
       "title": "vladimir@email.ru",
       "body": {
-        name: "Скутер",
-        url: "https://buygiroscooter.ru/wp-content/uploads/3/8/1/381bad7b0e935a257ecc8f7e99df2e5d.jpeg"
+        "name": "Скутер",
+        "url": "https://buygiroscooter.ru/wp-content/uploads/3/8/1/381bad7b0e935a257ecc8f7e99df2e5d.jpeg"
       }
     },
     {
@@ -14,8 +14,8 @@
       "name": "Александр",
       "title": "sasha@email.ru",
       "body": {
-        name: "Скутер",
-        url: "https://buygiroscooter.ru/wp-content/uploads/3/8/1/381bad7b0e935a257ecc8f7e99df2e5d.jpeg"
+        "name": "Скутер",
+        "url": "https://buygiroscooter.ru/wp-content/uploads/3/8/1/381bad7b0e935a257ecc8f7e99df2e5d.jpeg"
       }
     },
     {
@@ -23,8 +23,8 @@
       "name": "Павел",
       "title": "pasha@email.ru",
       "body": {
-        name: "Скутер",
-        url: "https://buygiroscooter.ru/wp-content/uploads/3/8/1/381bad7b0e935a257ecc8f7e99df2e5d.jpeg"
+        "name": "Скутер",
+        "url": "https://buygiroscooter.ru/wp-content/uploads/3/8/1/381bad7b0e935a257ecc8f7e99df2e5d.jpeg"
       }
     },
     {
@@ -32,8 +32,8 @@
       "name": "Максим",
       "title": "maksim@email.ru",
       "body": {
-        name: "Скутер",
-        url: "https://buygiroscooter.ru/wp-content/uploads/3/8/1/381bad7b0e935a257ecc8f7e99df2e5d.jpeg"
+        "name": "Скутер",
+        "url": "https://buygiroscooter.ru/wp-content/uploads/3/8/1/381bad7b0e935a257ecc8f7e99df2e5d.jpeg"
       }
     },
     {
@@ -41,8 +41,8 @@
       "name": "Кирилл",
       "title": "kirill@email.ru",
       "body": {
-        name: "Скутер",
-        url: "https://buygiroscooter.ru/wp-content/uploads/3/8/1/381bad7b0e935a257ecc8f7e99df2e5d.jpeg"
+        "name": "Скутер",
+        "url": "https://buygiroscooter.ru/wp-content/uploads/3/8/1/381bad7b0e935a257ecc8f7e99df2e5d.jpeg"
       }
     },
     {
@@ -50,8 +50,8 @@
       "name": "Марк",
       "title": "mark@email.ru",
       "body": {
-        name: "Скутер",
-        url: "https://buygiroscooter.ru/wp-content/uploads/3/8/1/381bad7b0e935a257ecc8f7e99df2e5d.jpeg"
+        "name": "Скутер",
+        "url": "https://buygiroscooter.ru/wp-content/uploads/3/8/1/381bad7b0e935a257ecc8f7e99df2e5d.jpeg"
       }
     },
     {
@@ -59,8 +59,8 @@
       "name": "Ирина",
       "title": "irina@email.ru",
       "body": {
-        name: "Скутер",
-        url: "https://buygiroscooter.ru/wp-content/uploads/3/8/1/381bad7b0e935a257ecc8f7e99df2e5d.jpeg"
+        "name": "Скутер",
+        "url": "https://buygiroscooter.ru/wp-content/uploads/3/8/1/381bad7b0e935a257ecc8f7e99df2e5d.jpeg"
       }
     },
     {
@@ -68,8 +68,8 @@
       "name": "Анна",
       "title": "ann@email.ru",
       "body": {
-        name: "Скутер",
-        url: "https://buygiroscooter.ru/wp-content/uploads/3/8/1/381bad7b0e935a257ecc8f7e99df2e5d.jpeg"
+        "name": "Скутер",
+        "url": "https://buygiroscooter.ru/wp-content/uploads/3/8/1/381bad7b0e935a257ecc8f7e99df2e5d.jpeg"
       }
     },
     {
@@ -77,26 +77,26 @@
       "name": "Светлана",
       "title": "sveta@email.ru",
       "body": {
-        name: "Скутер",
-        url: "https://buygiroscooter.ru/wp-content/uploads/3/8/1/381bad7b0e935a257ecc8f7e99df2e5d.jpeg"
+        "name": "Скутер",
+        "url": "https://buygiroscooter.ru/wp-content/uploads/3/8/1/381bad7b0e935a257ecc8f7e99df2e5d.jpeg"
       }
     },
     {
       "id" : 10,
       "name": "Настя",
       "title": "nastya@email.ru",
-       "body": {
-          name: "Скутер",
-          url: "https://buygiroscooter.ru/wp-content/uploads/3/8/1/381bad7b0e935a257ecc8f7e99df2e5d.jpeg"
-        }
+      "body": {
+        "name": "Скутер",
+        "url": "https://buygiroscooter.ru/wp-content/uploads/3/8/1/381bad7b0e935a257ecc8f7e99df2e5d.jpeg"
+      }
     },
     {
       "id": 11,
       "name": "Маргарита",
       "title": "margo@email.ru",
       "body": {
-        name: "Скутер",
-        url: "https://buygiroscooter.ru/wp-content/uploads/3/8/1/381bad7b0e935a257ecc8f7e99df2e5d.jpeg"
+        "name": "Скутер",
+        "url": "https://buygiroscooter.ru/wp-content/uploads/3/8/1/381bad7b0e935a257ecc8f7e99df2e5d.jpeg"
       }
     },
     {
@@ -104,8 +104,8 @@
       "name": "Диана",
       "title": "di@email.ru",
       "body": {
-        name: "Скутер",
-        url: "https://buygiroscooter.ru/wp-content/uploads/3/8/1/381bad7b0e935a257ecc8f7e99df2e5d.jpeg"
+        "name": "Скутер",
+        "url": "https://buygiroscooter.ru/wp-content/uploads/3/8/1/381bad7b0e935a257ecc8f7e99df2e5d.jpeg"
       }
     },
     {
@@ -113,15 +113,18 @@
       "name": "Алина",
       "title": "alina@email.ru",
       "body": {
-        name: "Скутер",
-        url: "https://buygiroscooter.ru/wp-content/uploads/3/8/1/381bad7b0e935a257ecc8f7e99df2e5d.jpeg"
+        "name": "Скутер",
+        "url": "https://buygiroscooter.ru/wp-content/uploads/3/8/1/381bad7b0e935a257ecc8f7e99df2e5d.jpeg"
       }
     },
     {
       "id": 14,
       "name": "Полина",
       "title": "polina@email.ru",
-      "body": "Скутер"
+       "body": {
+        "name": "Скутер",
+        "url": "https://buygiroscooter.ru/wp-content/uploads/3/8/1/381bad7b0e935a257ecc8f7e99df2e5d.jpeg"
+      }
     }
   ]
 }
