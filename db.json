@@ -4,10 +4,7 @@
       "id" : 0,
       "name": "Владимир",
       "title": "vladimir@email.ru",
-      "body" = {
-        "image-url": "https://buygiroscooter.ru/wp-content/uploads/3/8/1/381bad7b0e935a257ecc8f7e99df2e5d.jpeg",
-        "name": "Скутер"
-       }
+      "body" : "Скутер",
     },
     {
       "id" : 2,
