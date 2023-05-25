@@ -1,5 +1,5 @@
 {
-  "posts":[
+  "posts": [
     {
       "id" : 0,
       "name": "Владимир",
@@ -12,7 +12,7 @@
       "title": "sasha@email.ru",
       "body" : "Скутер"
     },
-   {
+    {
       "id" : 3,
       "name": "Павел",
       "title": "pasha@email.ru",
